@@ -1,0 +1,13 @@
+= vision-factory-documents
+vision-factoryで利用する設計書類を管理するリポジトリ
+
+== 前提
+エディタはvscodeを想定 +
+ドキュメントはadocで管理 +
+link:http://www.venus.dti.ne.jp/~iisaka/DocSys/cheatsheet-ja/asciidoc-869/asciidoc-869.html[AsciiDocチートシート]
+
+== image管理
+image管理にはvscodeのdrawio pluginを利用
+
+以下参考 +
+link:https://qiita.com/riku-shiru/items/5ab7c5aecdfea323ec4e[Qiita:VSCodeでDraw.ioが使えるようになったらしい！]

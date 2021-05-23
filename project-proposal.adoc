@@ -116,6 +116,13 @@ image::./images/project-proposal/coreplayv1.2_1.jpg[scaledwidth="50%",align="cen
 * 設定:遠距離魔法攻撃系
 * イメージ: TBD
 
+.敵その4
+* 設定:飛行系
+* イメージ: TBD
+
+== アイテム
+
+TBD
 
 == 操作方法
 link:./specifications/controller.adoc[操作定義書]に記載

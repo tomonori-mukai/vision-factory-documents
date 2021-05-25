@@ -11,3 +11,9 @@ image管理にはvscodeのdrawio pluginを利用
 
 以下参考 +
 link:https://qiita.com/riku-shiru/items/5ab7c5aecdfea323ec4e[Qiita:VSCodeでDraw.ioが使えるようになったらしい！]
+
+== ドキュメント一覧
+
+link:./project-proposal.adoc[企画書]
+
+link:./specifications/README.adoc[設計書一覧]
